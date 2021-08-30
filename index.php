@@ -244,7 +244,7 @@
               <label for="pesan" class="form-label">Message</label>
               <textarea class="form-control" id="pesan" rows="5" required></textarea>
             </div>
-           <button type="submit" class="btn btn-primary">Kirim</button>
+           <button type="submit" class="btn btn-success">Kirim</button>
           </form>
         </div>
         <div class="col-md-8 text-center">
